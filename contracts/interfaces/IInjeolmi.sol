@@ -1,7 +1,5 @@
 pragma solidity ^0.5.6;
 
-import "../klaytn-contracts/token/KIP7/IKIP7.sol";
-
 interface IInjeolmi {
 
     event Transfer(address indexed from, address indexed to, uint256 value);
